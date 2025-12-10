@@ -96,5 +96,7 @@ FloodWatch adalah sistem monitoring banjir berbasis WebGIS yang memungkinkan pem
 
 ---
 
-**Developed by**: [Armaya Wira Sandi]  
+**Developed by**: [Armaya Wira Sandi]
+**NIM**: [231240001437]
 **Mata Kuliah**: [Sistem Informasi Geografis]  
+
